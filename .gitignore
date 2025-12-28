@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pth
+*.pt
+
+# Project Specific
+data/
+results/
+# Keep example images if you want them in README, otherwise ignore results
+# !results/README_images/ 
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
